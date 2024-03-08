@@ -23,3 +23,18 @@ body{
    margin: 0 16px;
    font-size: 16px;
 }
+
+  .informaçoes{
+    background-image: -linear-gradient(black);
+    color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+
+  }
+.informaçoes-do-time{
+   width: 25%;
+}
+
+
