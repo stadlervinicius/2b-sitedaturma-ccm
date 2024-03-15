@@ -36,5 +36,69 @@ body{
 .informaçoes-do-time{
    width: 25%;
 }
+.informaçoes-do-time{
+  background-image: linear-gradient(#3B0050,#3b00501f);
+  color:#FFFFFF;
+  display: flex;
+  justify-content: center;
+  padding: 50px;
+  border-bottom: 2px solid #ffff00b2;
+}
 
+.sobre_nos-div-conteudo{
+  width: 650px;
+}
+.sobre_nos-titulo{
+  padding: 45px 0;
+  text-align: center;
+  font-size: 45px;
+}
 
+.sobre_nos-paragrafo{
+  font-size: 25px;
+}
+
+.sobre_nos-imagem{
+  width: 25%;
+}
+/* secao lojas*/
+.titulo{
+  background-color: #a9a9a9;
+}
+
+.titulo{
+color: #3B0050;
+text-align: center;
+padding: 50px;
+font-size: 45px;
+}
+
+.libertadores{
+  display: grid;
+  grid-template-columns: 33% 33% 33%;
+}
+.libertadores{
+  text-align: center;
+ 
+}
+
+.libertadores{
+  width: 20px;
+}
+.copa-do-Brasil{
+  font-weight: 100;
+  text-decoration: underline;
+  color: #FFFFFF;
+}
+.lojas-estado-nome:hover{
+  font-weight: 100;
+  text-decoration: underline;
+  color: orange;
+}
+.lojas-estado-icone{
+  width: 30px;
+  padding: 5px 0 10px 0;
+}
+.lojas-estado-icone:hover{
+  width: 35px;
+  padding: 5px 0;}
